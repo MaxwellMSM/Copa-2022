@@ -4,17 +4,17 @@
   },
   "Local":{
    "nome": "Brasil",
-   "imagem": "todo"
+   "imagem": "https://www.google.com/search?q=clube+maracana&tbm=isch&ved=2ahUKEwjx3__Z-Zj9AhV1CbkGHQzIB44Q2-cCegQIABAA&oq=clube+maracana&gs_lcp=CgNpbWcQAzIHCAAQgAQQGDoECCMQJzoFCAAQgAQ6BwgjEOoCECc6CAgAELEDEIMBOgQIABBDOggIABCABBCxAzoHCAAQsQMQQzoGCAAQBRAeOgYIABAIEB5QoQZY-XZgpYYBaARwAHgEgAH8AYgBoRiSAQYzLjIwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=_47tY7HkNfWS5OUPjJCf8Ag&bih=625&biw=1366#imgrc=ne9TvvBof4NAuM"
   },
    "Mandante":{
    "nome": "Brasil",
    "força": 5,
-   "imagem": "todo"
+   "imagem": "https://www.google.com/search?q=bandeira+do+brasil&sxsrf=AJOqlzWgL_4Fzv0nMAvY8-TXyZ7pAumSJA:1676512888825&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjSm8yZ-Zj9AhXjLrkGHQK9DRAQ_AUoAXoECAEQAw&biw=1366&bih=625#imgrc=WGgO9gf5N_RnkM"
   },
    "Visitante":{
    "nome": "Argentina",
    "força": 5,
-   "imagem": "todo"
+   "imagem": "https://www.google.com/search?q=bandeira+da+argentina&tbm=isch&ved=2ahUKEwioqKSb-Zj9AhV5NbkGHdHOCIQQ2-cCegQIABAA&oq=bandeira+da+argentina&gs_lcp=CgNpbWcQARgAMggIABCABBCxAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECCMQJzoECAAQQzoHCAAQsQMQQ1CcBliZLGDpOGgAcAB4AIABwAGIAcwSkgEENi4xNJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=fI7tY6j6Ffnq5OUP0Z2joAg&bih=625&biw=1366#imgrc=qGtqUXFT-dpLsM"
   }
   
 ]
