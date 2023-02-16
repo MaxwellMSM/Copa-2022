@@ -4,17 +4,17 @@
   },
   "Local":{
    "nome": "Brasil",
-   "imagem"; "todo"
+   "imagem": "todo"
   },
    "Mandante":{
    "nome": "Brasil",
    "força": 5,
-   "imagem"; "todo"
+   "imagem": "todo"
   },
    "Visitante":{
    "nome": "Argentina",
    "força": 5,
-   "imagem"; "todo"
+   "imagem": "todo"
   }
   
 ]
